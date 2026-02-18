@@ -1,0 +1,9 @@
+streamlit
+torch
+pandas
+nltk
+transformers
+scikit-learn
+numpy
+safetensors
+accelerate
